@@ -2,28 +2,28 @@
 # History files
 .Rhistory
 .Rapp.history
-.rda
-.dta
+*.rda
+*.dta
 
 # temporary input and output folders
-/temp/outputs/*.csv
-/temp/outputs/*.png
-/temp/outputs/*.pdf
-/temp/outputs/*.xlsx
-/temp/outputs/*.svg
-/temp/outputs/*.jpg
-/temp/outputs/*.tiff
-/temp/outputs/*.html
-/temp/outputs/*.docx
-/temp/outputs/*.json
-/temp/outputs/*.xml
-/temp/outputs/*.tsv
-/temp/raw_data/*.csv
-/temp/raw_data/*.tsv
-/temp/raw_data/*.xlsx
-/temp/raw_data/*.zip
-/temp/raw_data/*.json
-/temp/raw_data/*.xml
+output/*.csv
+output/*.png
+output/*.pdf
+output/*.xlsx
+output/*.svg
+output/*.jpg
+output/*.tiff
+output/*.html
+output/*.docx
+output/*.json
+output/*.xml
+output/*.tsv
+raw_data/*.csv
+raw_data/*.tsv
+raw_data/*.xlsx
+raw_data/*.zip
+raw_data/*.json
+raw_data/*.xml
 
 # Session Data files
 .RData
