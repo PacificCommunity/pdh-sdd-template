@@ -1,6 +1,29 @@
+# binary data files
 # History files
 .Rhistory
 .Rapp.history
+*.rda
+*.dta
+
+# temporary input and output folders
+output/*.csv
+output/*.png
+output/*.pdf
+output/*.xlsx
+output/*.svg
+output/*.jpg
+output/*.tiff
+output/*.html
+output/*.docx
+output/*.json
+output/*.xml
+output/*.tsv
+raw_data/*.csv
+raw_data/*.tsv
+raw_data/*.xlsx
+raw_data/*.zip
+raw_data/*.json
+raw_data/*.xml
 
 # Session Data files
 .RData
@@ -38,9 +61,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# pkgdown site
-docs/
 
 # translation temp files
 po/*~
